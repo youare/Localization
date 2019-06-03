@@ -1,0 +1,14 @@
+C:\Repo\Internationalization\RequestLocalization\bin\Release\netcoreapp2.2\RequestLocalization.deps.json
+C:\Repo\Internationalization\RequestLocalization\bin\Release\netcoreapp2.2\RequestLocalization.runtimeconfig.json
+C:\Repo\Internationalization\RequestLocalization\bin\Release\netcoreapp2.2\RequestLocalization.runtimeconfig.dev.json
+C:\Repo\Internationalization\RequestLocalization\bin\Release\netcoreapp2.2\RequestLocalization.dll
+C:\Repo\Internationalization\RequestLocalization\bin\Release\netcoreapp2.2\RequestLocalization.pdb
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.csprojAssemblyReference.cache
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.csproj.CoreCompileInputs.cache
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.RazorAssemblyInfo.cache
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.RazorAssemblyInfo.cs
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.AssemblyInfoInputs.cache
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.AssemblyInfo.cs
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.RazorTargetAssemblyInfo.cache
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.dll
+C:\Repo\Internationalization\RequestLocalization\obj\Release\netcoreapp2.2\RequestLocalization.pdb
